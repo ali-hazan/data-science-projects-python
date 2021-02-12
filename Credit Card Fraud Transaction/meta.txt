@@ -1,0 +1,4 @@
+Project     : Credit Card Fraud Transaction Detection
+Author      : Ali Hassan
+Email       : alihassankp27@gmail.com
+Data Source : https://www.kaggle.com/mlg-ulb/creditcardfraud
